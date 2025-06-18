@@ -12,4 +12,8 @@ public class test{
 		System.out.println(a-b);
 
 	}
+	public void div(){
+		System.out.println(a/b);
+
+	}
 }
