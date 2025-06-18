@@ -4,12 +4,12 @@ public class test{
 	public void add(){
 		System.out.println(a+b);
 	}
-<<<<<<< Updated upstream
+
 	public void mul(){
 		System.out.println(a*b);
-=======
+
 	public void sub(){
 		System.out.println(a-b);
->>>>>>> Stashed changes
+
 	}
 }
