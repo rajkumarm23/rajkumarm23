@@ -4,4 +4,7 @@ public class test{
 	public void add(){
 		System.out.println(a+b);
 	}
+	public void mul(){
+		System.out.println(a*b);
+	}
 }
